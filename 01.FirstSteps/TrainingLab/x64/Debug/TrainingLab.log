@@ -1,0 +1,4 @@
+﻿  TrainingLab.cpp
+C:\Users\Beni\source\repos\FirstStepsInCoding\TrainingLab\TrainingLab.cpp(13,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Beni\source\repos\FirstStepsInCoding\TrainingLab\TrainingLab.cpp(15,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  TrainingLab.vcxproj -> C:\Users\Beni\source\repos\FirstStepsInCoding\x64\Debug\TrainingLab.exe

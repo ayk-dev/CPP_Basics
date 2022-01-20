@@ -1,3 +1,0 @@
-﻿  LunchBreak.cpp
-C:\Users\Beni\source\repos\ConditionalStatements\LunchBreak\LunchBreak.cpp(20,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  LunchBreak.vcxproj -> C:\Users\Beni\source\repos\ConditionalStatements\x64\Debug\LunchBreak.exe

@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "203a3f6b-882b-43b5-a0ab-9b26a463fcee": {
+      "ProjectGuid": "203a3f6b-882b-43b5-a0ab-9b26a463fcee",
+      "DisplayName": "Numbers1to100",
+      "ColorIndex": 0
+    },
+    "fb70a3ce-aca5-4d38-a5c2-8d59d4457e1c": {
+      "ProjectGuid": "fb70a3ce-aca5-4d38-a5c2-8d59d4457e1c",
+      "DisplayName": "NumbersNto1",
+      "ColorIndex": 1
+    },
+    "2f3e07cb-0448-41ec-a595-c43dc311b6de": {
+      "ProjectGuid": "2f3e07cb-0448-41ec-a595-c43dc311b6de",
+      "DisplayName": "Numbers1toNStep3",
+      "ColorIndex": 2
+    },
+    "9ebc1cc2-b90f-43d2-af15-15c297f06bc2": {
+      "ProjectGuid": "9ebc1cc2-b90f-43d2-af15-15c297f06bc2",
+      "DisplayName": "EvenPowersOf2",
+      "ColorIndex": 3
+    },
+    "96376867-d123-4c57-83e0-1d6a6e0bb118": {
+      "ProjectGuid": "96376867-d123-4c57-83e0-1d6a6e0bb118",
+      "DisplayName": "CharacterSequence",
+      "ColorIndex": 4
+    },
+    "f5cd7c5b-3981-41db-8877-0f4c8ff716f4": {
+      "ProjectGuid": "f5cd7c5b-3981-41db-8877-0f4c8ff716f4",
+      "DisplayName": "VowelsSum",
+      "ColorIndex": 5
+    },
+    "242c6e60-5d14-412b-9ed7-1e4f86bb6f53": {
+      "ProjectGuid": "242c6e60-5d14-412b-9ed7-1e4f86bb6f53",
+      "DisplayName": "SumNumbers",
+      "ColorIndex": 6
+    },
+    "4e4043cc-5432-4ea1-a650-08a6db902c80": {
+      "ProjectGuid": "4e4043cc-5432-4ea1-a650-08a6db902c80",
+      "DisplayName": "NumberSequence",
+      "ColorIndex": 7
+    },
+    "d4ac2272-bf0f-4cdc-a97b-dea5843b4e2a": {
+      "ProjectGuid": "d4ac2272-bf0f-4cdc-a97b-dea5843b4e2a",
+      "DisplayName": "LeftAndRightSum",
+      "ColorIndex": 8
+    },
+    "4fd7687b-610f-43e0-b494-fef9afb77883": {
+      "ProjectGuid": "4fd7687b-610f-43e0-b494-fef9afb77883",
+      "DisplayName": "OddEvenSum",
+      "ColorIndex": 9
+    },
+    "f0d603fa-750b-4d09-b5e8-561c8c696090": {
+      "ProjectGuid": "f0d603fa-750b-4d09-b5e8-561c8c696090",
+      "DisplayName": "NumbersEndingIn7",
+      "ColorIndex": 10
+    },
+    "a6231e85-5e56-4557-a2e3-12039d397d8c": {
+      "ProjectGuid": "a6231e85-5e56-4557-a2e3-12039d397d8c",
+      "DisplayName": "HalfSumElement",
+      "ColorIndex": 11
+    },
+    "804f0880-ef89-457a-972c-3914446b0841": {
+      "ProjectGuid": "804f0880-ef89-457a-972c-3914446b0841",
+      "DisplayName": "Histogram",
+      "ColorIndex": 12
+    },
+    "d2677eb7-579a-4a70-aee0-ef5680ce4f5f": {
+      "ProjectGuid": "d2677eb7-579a-4a70-aee0-ef5680ce4f5f",
+      "DisplayName": "CleverLily",
+      "ColorIndex": 13
+    },
+    "5e91ed3f-958f-4872-99f3-51d0c6cd27ec": {
+      "ProjectGuid": "5e91ed3f-958f-4872-99f3-51d0c6cd27ec",
+      "DisplayName": "Salary",
+      "ColorIndex": 14
+    },
+    "1139778b-2181-408e-b02e-1400a60ebfda": {
+      "ProjectGuid": "1139778b-2181-408e-b02e-1400a60ebfda",
+      "DisplayName": "Oscars",
+      "ColorIndex": 15
+    },
+    "74a072c1-a742-42a2-8e9f-3bcbb9d6ae0f": {
+      "ProjectGuid": "74a072c1-a742-42a2-8e9f-3bcbb9d6ae0f",
+      "DisplayName": "TrekkingMania",
+      "ColorIndex": 0
+    },
+    "b857a721-a532-4bf0-bb60-375bae2562d8": {
+      "ProjectGuid": "b857a721-a532-4bf0-bb60-375bae2562d8",
+      "DisplayName": "TennisRanklist",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

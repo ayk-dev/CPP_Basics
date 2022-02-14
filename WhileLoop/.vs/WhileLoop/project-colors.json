@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "80f33101-3a15-46bf-aa5a-bff01f2ea2c9": {
+      "ProjectGuid": "80f33101-3a15-46bf-aa5a-bff01f2ea2c9",
+      "DisplayName": "ReadText",
+      "ColorIndex": 0
+    },
+    "9972ce27-ff32-460a-95a2-d3db6a278dab": {
+      "ProjectGuid": "9972ce27-ff32-460a-95a2-d3db6a278dab",
+      "DisplayName": "Password",
+      "ColorIndex": 1
+    },
+    "f70573ed-f855-4fe4-83eb-ddcf7ef3a840": {
+      "ProjectGuid": "f70573ed-f855-4fe4-83eb-ddcf7ef3a840",
+      "DisplayName": "SumNumbers",
+      "ColorIndex": 2
+    },
+    "1eb3b363-dbe1-4a2e-b643-3db1b6bc6a6c": {
+      "ProjectGuid": "1eb3b363-dbe1-4a2e-b643-3db1b6bc6a6c",
+      "DisplayName": "Sequence2kplus1",
+      "ColorIndex": 3
+    },
+    "0556c68d-753a-490a-a040-9123bf74c273": {
+      "ProjectGuid": "0556c68d-753a-490a-a040-9123bf74c273",
+      "DisplayName": "AccountBalance",
+      "ColorIndex": 4
+    },
+    "4601d3ad-8ea6-4651-bd62-78ea045ee21f": {
+      "ProjectGuid": "4601d3ad-8ea6-4651-bd62-78ea045ee21f",
+      "DisplayName": "MaxNumber",
+      "ColorIndex": 5
+    },
+    "e2eb13b5-82f2-4d8e-bab3-1b3d2878d87c": {
+      "ProjectGuid": "e2eb13b5-82f2-4d8e-bab3-1b3d2878d87c",
+      "DisplayName": "MinNumber",
+      "ColorIndex": 6
+    },
+    "025d9e15-7cb9-4739-bd53-b4699d59427d": {
+      "ProjectGuid": "025d9e15-7cb9-4739-bd53-b4699d59427d",
+      "DisplayName": "Graduation",
+      "ColorIndex": 7
+    },
+    "8a759dfb-1376-4ab4-b4ce-dea52b536ff4": {
+      "ProjectGuid": "8a759dfb-1376-4ab4-b4ce-dea52b536ff4",
+      "DisplayName": "Coins",
+      "ColorIndex": 8
+    },
+    "dcf57e17-9ca3-49c2-9001-167effd79565": {
+      "ProjectGuid": "dcf57e17-9ca3-49c2-9001-167effd79565",
+      "DisplayName": "Walking",
+      "ColorIndex": 9
+    },
+    "ce661935-f80c-4dd6-8520-a842bb42bf4d": {
+      "ProjectGuid": "ce661935-f80c-4dd6-8520-a842bb42bf4d",
+      "DisplayName": "Vacation",
+      "ColorIndex": 10
+    },
+    "7e37194a-4356-4a1c-ad27-d2c6238d5607": {
+      "ProjectGuid": "7e37194a-4356-4a1c-ad27-d2c6238d5607",
+      "DisplayName": "ExamPreparation",
+      "ColorIndex": 11
+    },
+    "f7f3f0bb-9849-42e8-baf1-62bbd48c719a": {
+      "ProjectGuid": "f7f3f0bb-9849-42e8-baf1-62bbd48c719a",
+      "DisplayName": "Cake",
+      "ColorIndex": 12
+    },
+    "b5b8f992-889c-4422-a427-68b71645b71d": {
+      "ProjectGuid": "b5b8f992-889c-4422-a427-68b71645b71d",
+      "DisplayName": "Moving",
+      "ColorIndex": 13
+    }
+  },
+  "NextColorIndex": 14
+}

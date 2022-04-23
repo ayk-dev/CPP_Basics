@@ -1,0 +1,4 @@
+﻿  Problem2.cpp
+C:\Users\Beni\source\repos\ExamFeb20th\Problem2\Problem2.cpp(27,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Beni\source\repos\ExamFeb20th\Problem2\Problem2.cpp(31,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Problem2.vcxproj -> C:\Users\Beni\source\repos\ExamFeb20th\x64\Debug\Problem2.exe
